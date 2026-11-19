@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 临时产物
+*.tmp
+*.log
+_thumbs.db
+
+# 编辑器
+.idea/
+.vscode/
